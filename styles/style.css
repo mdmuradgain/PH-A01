@@ -101,11 +101,11 @@
   margin: 0 auto;
   text-align: center;
 }
-.join_now p{
-text-align: center;
-font-size: 32px;
-font-weight: 600;
-line-height: 56px;
+.join_now p {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
 }
 .label1 {
   color: red;
@@ -118,4 +118,30 @@ line-height: 56px;
   background: #f00;
   border: 0;
   color: #fff;
+}
+.WHAT_IS_FUNCTIONAL {
+  width: 1600px;
+  height: 7335px;
+  margin: 0 auto;
+  text-align: center;
+}
+.label3 {
+  color: #f00;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+}
+.label2 {
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+}
+.WHA {
+  color: #070211;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 500;
+}
+.PP {
+  text-align: center;
 }
